@@ -1,0 +1,11 @@
+﻿  main_menu.cpp
+C:\Users\dimat\source\repos\menu\menu\vername.h(69,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimat\source\repos\menu\menu\vername.h(106,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimat\source\repos\menu\menu\vername.h(125,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimat\source\repos\menu\menu\vername.h(151,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  menu.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  menu.vcxproj -> C:\Users\dimat\source\repos\menu\x64\Release\menu.exe

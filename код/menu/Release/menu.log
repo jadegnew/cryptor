@@ -1,0 +1,33 @@
+﻿  main_menu.cpp
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(101,3): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(101,3): warning C4552: "<<": результат выражения не используется
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(103,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(108,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(124,3): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(124,3): warning C4552: "<<": результат выражения не используется
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(131,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(150,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(153,14): warning C4552: ">>": результат выражения не используется
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(166,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(171,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(181,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(195,3): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(197,3): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vername.h(201,3): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vigenere.h(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vigenere.h(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vigenere.h(168,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\vigenere.h(188,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\grosnf.h(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\grosnf.h(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\grosnf.h(168,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\menu\grosnf.h(188,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  3 of 271 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  menu.vcxproj -> C:\Users\dimat\OneDrive\Рабочий стол\курсовая\код\Release\menu.exe

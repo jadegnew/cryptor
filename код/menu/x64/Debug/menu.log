@@ -1,0 +1,7 @@
+﻿  main_menu.cpp
+C:\Users\dimat\source\repos\menu\menu\vername.h(95,3): warning C4552: "<<": результат выражения не используется
+C:\Users\dimat\source\repos\menu\menu\vername.h(117,3): warning C4552: "<<": результат выражения не используется
+C:\Users\dimat\source\repos\menu\menu\vername.h(144,14): warning C4552: ">>": результат выражения не используется
+  menu.cpp
+  Создание кода...
+  menu.vcxproj -> C:\Users\dimat\source\repos\menu\x64\Debug\menu.exe
